@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shanvin Luo 🌊</h1>
 
 <p align="center">
-  <b>I build software that goes deep:</b> from GPU-powered AI systems to immersive 3D experiences below the surface.
+  <a href="https://shanvinluo.ca"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0AA2C0&center=true&vCenter=true&width=620&lines=Software+engineer+who+goes+deep;GPU-powered+AI+systems;Immersive+3D+experiences+below+the+surface;Currently+%40+Expedia%2C+incoming+%40+Shopify" alt="Software engineer: GPU-powered AI systems and immersive 3D experiences below the surface"></a>
 </p>
 
 <p align="center">
@@ -89,6 +89,12 @@ Gemini · OpenAI · RAG / Vector Search · OpenWebUI · Scrapy · BeautifulSoup 
   <img src="https://img.shields.io/badge/Internships-6-0aa2c0?style=for-the-badge&labelColor=0d1117" alt="Internships">
   <img src="https://img.shields.io/badge/Hackathon_wins-2x_MLH-0aa2c0?style=for-the-badge&labelColor=0d1117" alt="Hackathon wins">
   <img src="https://img.shields.io/badge/Graduating-Dec_2026-0aa2c0?style=for-the-badge&labelColor=0d1117" alt="Graduating">
+</p>
+
+### 🌃 Contribution skyline
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution skyline" width="95%">
 </p>
 
 <p align="center"><i>Let's resurface together. 🐚</i></p>
